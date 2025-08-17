@@ -3,7 +3,7 @@
     <th colspan="3">Focused on Indie Game Development</th>
   </tr>
    <tr>
-    <th colspan="3">Languages</th>
+    <th colspan="3">Spoken Languages</th>
   </tr>
   <tr>
     <td colspan="3" align="center">
@@ -20,7 +20,15 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60" alt="Visual Studio"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60" height="60" alt="Blender"/></td>
   </tr>
+  <tr>
+    <th colspan="3">Programming Languages</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/></td>
+  </tr>
    <tr>
-    <th colspan="3">Other interests:Making videos,arm wrestling</th>
+    <th colspan="3">Other interests: Making videos, arm wrestling</th>
   </tr>
 </table>
