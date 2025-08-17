@@ -21,6 +21,6 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60" height="60" alt="Blender"/></td>
   </tr>
    <tr>
-    <th colspan="3">Other interests:Making video,arm wrestling</th>
+    <th colspan="3">Other interests:Making videos,arm wrestling</th>
   </tr>
 </table>
