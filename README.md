@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**vandong205/vandong205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+   <tr>
+    <th colspan="3">Focused on Indie Game Development</th>
+  </tr>
+  <tr>
+    <th colspan="3">Main Tools and Technologies</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" height="60" alt="Unity"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60" alt="Visual Studio"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60" height="60" alt="Blender"/></td>
+  </tr>
+  <tr>
+    <th colspan="3">Languages</th>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://img.shields.io/badge/Vietnamese-Native-green?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Chinese-Basic-red?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
