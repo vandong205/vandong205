@@ -20,7 +20,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60" alt="Visual Studio"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60" height="60" alt="Blender"/></td>
   </tr>
-  <tr colspan="3">
-     <th>Other interests:Making video,arm wrestling</th>
+   <tr>
+    <th colspan="3">Other interests:Making video,arm wrestling</th>
   </tr>
 </table>
